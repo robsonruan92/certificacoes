@@ -8,4 +8,3 @@ Este repositório é dedicado a armazenar resumos de estudos e materiais de refe
 2. **Materiais de Referência**: Links para artigos, vídeos, cursos online e outros materiais relevantes que complementam o estudo para cada certificação.
 3. **Exemplos de Questões**: Exemplos de questões de exames anteriores ou simulados para ajudar na prática e na familiarização com o formato das perguntas.
 4. **Guia de Estudo**: Um guia geral ou específico para cada certificação, incluindo uma sugestão de cronograma de estudos, recursos recomendados e estratégias de preparação para o exame.
-5. **Contribuições da Comunidade**: Encorajamos contribuições da comunidade, como correções, adições de novos resumos, atualizações de materiais e sugestões de estudo.
